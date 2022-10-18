@@ -22,6 +22,6 @@ Once you're done change 'When Interacting' to Run Script, set Parameter to your 
 **Ps while Entering your 'Card Number' for your myki dont add any spaces.**
 
 **Running low on Credit? once your widget is done there will be a section called 'Top Up' and it'll redirect you to the 
-offical Myki website to 'Top up your myki'. **
+offical Myki website to 'Top up your myki'.**
 
 **None Working Project, [MykiBalance](https://github.com/imchlorine/MykiBalance) [v1]**
