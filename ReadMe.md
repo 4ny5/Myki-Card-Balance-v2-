@@ -2,6 +2,8 @@
 
 **Only Works with Iphones :)**
 
+[Whats a Myki Card?](https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki-and-top-up/myki-pass/)
+
 Working with [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188?ign-mpt=uo%3D4), Widgets iOS App.
 
 ## How to add 'Myki Card Balannce' Widget to iOS?
