@@ -2,7 +2,7 @@
 
 Whats A Myki Card? [ClickHere](https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki-and-top-up/myki-pass/).
 
-**Only Works with Iphones :)**
+**Only Works with iOS 🍌**
 
 Working with [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188?ign-mpt=uo%3D4), Widgets iOS App.
 
