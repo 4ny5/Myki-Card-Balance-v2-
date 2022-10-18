@@ -1,3 +1,9 @@
+/*
+Script: MykiCard_Balance.js
+Author: George (@4ny5)
+Date: 18/10/2022
+Version: 2.0.0
+*/
 let cardNumber = args.widgetParameter
 
 let ptvWebAuth = await getMykitoken()
